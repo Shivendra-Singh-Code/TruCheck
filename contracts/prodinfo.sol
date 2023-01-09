@@ -1,4 +1,4 @@
-pragama solidity > =0.4.0 <0.8.17;
+pragma solidity >=0.4.0<=0.8.17;
 contract prodinfo{
     struct prod{
         string proid;
